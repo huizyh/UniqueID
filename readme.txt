@@ -5,4 +5,4 @@ third
 feature1
 this is changed
 this is feature
-this is a branch
+this is a branch &feature
