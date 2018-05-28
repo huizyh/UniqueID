@@ -5,4 +5,5 @@ third
 feature1
 this is changed
 this is feature
-this is a branch &feature
+crate a new branch is quick and simple
+
